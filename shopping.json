@@ -1,0 +1,100 @@
+{
+    "shopping":[
+        {
+            "serialno": "1",
+            "name": "Rice",
+            "quantity": "2",
+            "unit": "kg",
+            "department":"grocery",
+            "notes":"Basmati Rice"
+        },
+
+        {
+            "serialno":"2",
+            "name":"Milk",
+            "quantity":"3",
+            "unit":"packets",
+            "department":"dairy products",
+            "notes":"buy milma"
+        },
+
+        {
+            "serialno":"3",
+            "name":"Cooking Oil",
+            "quantity":"2",
+            "unit":"litres",
+            "department":"grocery",
+            "notes":"coconut oil"
+        },
+
+        {
+            "serialno":"4",
+            "name":"Banana",
+            "quantity":"2",
+            "unit":"kg",
+            "department":"fruits",
+            "notes":"fresh"
+        },
+
+
+        {
+            "serialno":"5",
+            "name":"Paneer",
+            "quantity":"2",
+            "unit":"packets",
+            "department":"dairy products",
+            "notes":"frozen"
+        },
+
+
+        {
+            "serialno":"6",
+            "name":"Powder salt",
+            "quantity":"1",
+            "unit":"kg",
+            "department":"Spice powders",
+            "notes":"Annapurna"
+        },
+
+
+        {
+            "serialno":"7",
+            "name":"Red chilli powder",
+            "quantity":"1/4",
+            "unit":"kg",
+            "department":"Spice powders",
+            "notes":"Eastern"
+        },
+
+
+        {
+            "serialno":"8",
+            "name":"Onion",
+            "quantity":"1",
+            "unit":"kg",
+            "department":"vegetables",
+            "notes":"fresh"
+        },
+
+
+        {
+            "serialno":"9",
+            "name":"Chicken",
+            "quantity":"2",
+            "unit":"kg",
+            "department":"meats",
+            "notes":"fresh"
+        },
+
+
+        {
+            "serialno":"10",
+            "name":"Wheat flour",
+            "quantity":"2",
+            "unit":"kg",
+            "department":"grocery",
+            "notes":"Aashirvaad"
+        }
+
+    ]
+}
